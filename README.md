@@ -5,6 +5,11 @@ A simple widget that displays a user's Discord presence (status, activity, avata
 
 This project is built with [Next.js](https://nextjs.org/) and fetches live Discord presence data from the [Lanyard Discord server](https://discord.com/invite/lanyard).
 
+## Example Display
+
+Here’s how the widget looks:
+
+![Discord Activity Display](https://raw.githubusercontent.com/Melyguy/richpresencedisplay/master/Screenshot)
 ---
 
 ## Features
